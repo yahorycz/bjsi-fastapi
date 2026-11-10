@@ -1,0 +1,7 @@
+fastapi
+httpx
+uvicorn
+pytest
+pytest-cov
+coverage
+jupyter
